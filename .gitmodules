@@ -1,3 +1,7 @@
 [submodule "openembedded-core"]
 	path = openembedded-core
 	url = git://git.openembedded.org/openembedded-core
+[submodule "bitbake"]
+	path = bitbake
+	url = git://git.openembedded.org/bitbake
+	branch = 1.28
